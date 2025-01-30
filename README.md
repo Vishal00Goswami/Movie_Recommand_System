@@ -1,4 +1,4 @@
-I am very excited to share I new achievement. I have create movie recommandation system using IMDB dataset.
+I am very excited to share new achievement. I have create movie recommandation system using IMDB dataset.
 
 ## Problem statement:
   -> We should Need to find out the solution so user can watch or see those movies which can me similar of their best collection's movies
@@ -8,6 +8,7 @@ I am very excited to share I new achievement. I have create movie recommandation
 
 ## Summarize Dataset: 
   -> I was removed unwanted columns and add those which really necessary for system and after preprocessing I was add those columns into a single columns 
+  <br>
   -> And make the only 3 Columns [ Id, Movie_name, content]
 
 ## Vectorication:
@@ -24,4 +25,5 @@ I am very excited to share I new achievement. I have create movie recommandation
 
 ## Using:
  -> Simply put the movie name and click Recommand button
+ <br>
  -> It will process and provide 5 similar movie with poster 
